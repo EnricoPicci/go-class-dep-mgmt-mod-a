@@ -1,2 +1,10 @@
 github.com/EnricoPicci/go-class-dep-mgmt-mod-b v1.0.1-0.20230301172015-69a64ee33d8a h1:8Z+o53gQcKNtbQXaIgpg5ZQuMYwWK9RRqVGFs4OR7nE=
 github.com/EnricoPicci/go-class-dep-mgmt-mod-b v1.0.1-0.20230301172015-69a64ee33d8a/go.mod h1:8maHLvAKPFkFpEGeMJgXd0BP9/BibW3w+6X0eaTHpkk=
+github.com/EnricoPicci/go-class-dep-mgmt-mod-b v1.1.0 h1:6PsTaRbmz32pOXfTlRp274rqImnYiYZjkqGriEmki1k=
+github.com/EnricoPicci/go-class-dep-mgmt-mod-b v1.1.0/go.mod h1:8maHLvAKPFkFpEGeMJgXd0BP9/BibW3w+6X0eaTHpkk=
+github.com/EnricoPicci/go-class-dep-mgmt-mod-c v1.0.0 h1:qNCeb7SbUY36+xeXWInwGUOCQbV1Oeuja8IT0O2mG+Q=
+github.com/EnricoPicci/go-class-dep-mgmt-mod-c v1.0.0/go.mod h1:80p6fYc5g5sd5no9csv2xwdgXOxLO4p7GvusDCv6TIo=
+github.com/EnricoPicci/go-class-dep-mgmt-mod-c v1.1.0 h1:0DJgPzh6f728xgbqW3MEJ79slyDc4Yt+AjNzcC5rQvs=
+github.com/EnricoPicci/go-class-dep-mgmt-mod-c v1.1.0/go.mod h1:RYKvqCuwZFAdFN4zMYUhRZvuJ1NzfgfPCJ+dQLytmRI=
+github.com/EnricoPicci/go-class-dep-mgmt-mod-d v1.1.0 h1:b46BoR81w7+ZEPOLZxS7V888/x8sU74xD9qrb0TV4AI=
+github.com/EnricoPicci/go-class-dep-mgmt-mod-d v1.1.0/go.mod h1:CeQPpRSpri4oNcOpJLlsh1LJteiFIUbPdYQjBTaK52g=
